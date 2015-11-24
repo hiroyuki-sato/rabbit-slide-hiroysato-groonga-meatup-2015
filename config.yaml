@@ -1,0 +1,21 @@
+---
+id: groonga-meatup-2015
+base_name: groonga-meatup-2015
+tags:
+- groonga
+presentation_date: 2015-11-29
+version: 2015.11.29.1
+licenses:
+- CC BY-SA 4.0
+#slideshare_id: groonga-night-5
+#speaker_deck_id: groongazu-2014
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :md
+  name: hiroyuki-sato
+  email: hiroysato@gmail.com
+  rubygems_user: hiroyuki-sato
+#  slideshare_user: hiroyuki-sato
+#  speaker_deck_user: hiroyuki-sato
