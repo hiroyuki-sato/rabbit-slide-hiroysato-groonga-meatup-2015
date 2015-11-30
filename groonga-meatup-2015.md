@@ -1,10 +1,16 @@
-# Groonga Meatup
+# Groonga\n導入事例
 
-subtitle
-:   Groonga導入事例\n佐藤 博之
+author
+:  佐藤 博之
+
+content-source
+:  Groonga Meatup 2015  
+
+date
+:  2015-11-29
 
 theme
-:   groonga
+:   .
 
 # 自己紹介
 
