@@ -46,7 +46,9 @@ theme
 
 # 構築したサービスの要件
 
-![](images/mail.pdf){: relative_height="100"}
+![](images/mail.pdf){: relative_height="90"}
+
+{::note}出典：xxx{:/note}
 
 # 全文検索ソフトウェア
 
