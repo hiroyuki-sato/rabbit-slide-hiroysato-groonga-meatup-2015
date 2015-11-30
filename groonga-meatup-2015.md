@@ -1,4 +1,4 @@
-# Groonga\n導入事例
+# Groonga\\n導入事例
 
 author
 :  佐藤 博之
