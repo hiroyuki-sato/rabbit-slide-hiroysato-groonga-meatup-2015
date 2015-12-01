@@ -1,10 +1,3 @@
-= Title
+# Groonga導入事例
 
-: author
-   佐藤博之
-: content-source
-   Groonga Meatup 2015
-: date
-   2015-11-29
-: allotted-time
-   15m
+Groongaを使って電子メールから特定のメールを抽出してレポートするシステムを構築した事例を紹介します。
