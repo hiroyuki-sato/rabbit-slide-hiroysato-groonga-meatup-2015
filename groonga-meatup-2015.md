@@ -1,4 +1,4 @@
-# Groonga\n導入事例
+# Groonga\\n導入事例
 
 author
 :  佐藤 博之
@@ -85,9 +85,9 @@ theme
 
 # embulkの構成
 
-![](images/embulk.png){: relative_height="100"}
+![](images/embulk.png){: relative_height="80"}
 
-{:note="出典：http://www.slideshare.net/frsyuki/embuk-making-data-integration-works-relaxed" }
+{::note}出典：http://www.slideshare.net/frsyuki/embuk-making-data-integration-works-relaxed{:/note}
 
 # groongaプラグイン
 
